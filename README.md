@@ -5,9 +5,14 @@ PhD code - eXtended Isogeometric Boundary Element Method
 
 This code is a stripped down version of the code I wrote for my PhD research.
 
-This version has had all visualisation code removed and is purely for obtaining data.
+This version has had all visualisation code removed and is purely for obtaining data. 
 
-Four different meshes (two 2D and two 3D) have been included as examples of problems that can be sovled for.
+Please note that this is research code and not some refined code I ever intended for any other use. 
+It is also poorly commented as it was intended for short-term use and not by anyone else. [Big slap on wrist]
+
+Some parts (especially the meshes) are incredibly poorly written and untidy. The cause: priorities. They were always intended to be temporary but over the course of my PhD, I never found the time or reason to fix them.
+
+Four different meshes (two 2D and two 3D) have been included as examples of problems that can be sovled.
 
 ---
 
